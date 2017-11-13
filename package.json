@@ -1,0 +1,10 @@
+{
+  "name": "api-gw-authorizer",
+  "version": "1.0.0",
+  "description": "AWS API Gateway custom authorizer",
+  "dependencies": {
+    "aws-sdk": "^2.9.0",
+    "njwt": "^0.4.0"
+  }
+}
+
